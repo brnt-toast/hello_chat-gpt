@@ -1,0 +1,1 @@
+We're building a JavaScript game called "Guess the Number." In this game, the computer generates a random number between 1 and 100, and the player has to guess what that number is within a certain number of attempts. It's a simple and fun game to implement! Let me know if you have any questions or need further clarification.
